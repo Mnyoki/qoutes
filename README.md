@@ -9,7 +9,7 @@
 This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
 
 ## Live Page 
-https://medi.netlify.app/ 
+https://medie.netlify.app/ 
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
