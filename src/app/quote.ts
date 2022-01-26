@@ -1,4 +1,4 @@
-import { ɵBrowserPlatformLocation } from '@angular/common';
+import { ɵBrowserPlatformLocation } from '@angular/platform-browser';
 
 export class Quote {
   showInfo: boolean;

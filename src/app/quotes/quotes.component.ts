@@ -20,7 +20,7 @@ export class QuotesComponent implements OnInit {
     return this.quotes.sort((a, b) => {
       return <any>new Date(b.datePosted) - <any>new Date(a.datePosted);
     });
-  }
+  }  
   addedQuote(quote){
     let arraysize = this.quotes.length;
     quote.id = arraysize+1;
@@ -33,10 +33,10 @@ export class QuotesComponent implements OnInit {
       if(toDelete){
         this.quotes.splice(index,1);
       }
-
+      
     }
   }
-
+ 
   displayInfo(index){
     this.quotes[index].showInfo = !this.quotes[index].showInfo;
   }

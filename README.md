@@ -2,7 +2,7 @@
 
 ## Author
 
-[Moses-Munyoki](https://github.com/Mnyoki)
+[Moses Munyoki](https://github.com/Mnyoki)
 
 ## Description
 
@@ -12,7 +12,7 @@ This is agular cli application that displays quotes, allow the user to input new
 https://medie.netlify.app/ 
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
 ## Development server
 
